@@ -44,6 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EJERCICIOS\Ejercicio1.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio10.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio2.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio3.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio4.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio5.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio6.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio7.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio8.cs" />
+    <Compile Include="EJERCICIOS\Ejercicio9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
