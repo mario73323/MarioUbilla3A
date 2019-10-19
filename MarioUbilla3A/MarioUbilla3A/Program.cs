@@ -82,6 +82,7 @@ namespace MarioUbilla3A
                 default:
                     Console.WriteLine("No se ha escogido un ejercicio, digite una opcion valida");
                     Console.WriteLine("Presione una tecla para continuar");
+                    Console.ReadKey();
                     break;
             }
             if (c != 11)
